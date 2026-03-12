@@ -1,0 +1,13 @@
+# PMO管理ディレクトリ（非公開）
+pmo/
+
+# ユーザーデータ（非公開）
+data/
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+*.swo
+*~
